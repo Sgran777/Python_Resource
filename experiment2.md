@@ -158,7 +158,7 @@ print(name.upper())
 print(name.lower())
  ```
 ```
-GKH
+Gkh
 GKH
 gkh
 ```
